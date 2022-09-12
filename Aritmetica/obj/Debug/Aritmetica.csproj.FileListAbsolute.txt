@@ -1,0 +1,6 @@
+D:\Facultad\Programacion\Act 1 c#\Aritmetica\Aritmetica\bin\Debug\Aritmetica.exe.config
+D:\Facultad\Programacion\Act 1 c#\Aritmetica\Aritmetica\bin\Debug\Aritmetica.exe
+D:\Facultad\Programacion\Act 1 c#\Aritmetica\Aritmetica\bin\Debug\Aritmetica.pdb
+D:\Facultad\Programacion\Act 1 c#\Aritmetica\Aritmetica\obj\Debug\Aritmetica.csprojResolveAssemblyReference.cache
+D:\Facultad\Programacion\Act 1 c#\Aritmetica\Aritmetica\obj\Debug\Aritmetica.exe
+D:\Facultad\Programacion\Act 1 c#\Aritmetica\Aritmetica\obj\Debug\Aritmetica.pdb
